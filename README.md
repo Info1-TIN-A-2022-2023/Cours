@@ -2,9 +2,9 @@
 
 | Date | Activité | Ratio | Commentaire |
 |---|---|---|---|
-| XXXX | Test écrit #1 | 12.5% | avec votre ordinateur - impératif |
-| XXXX| Test écrit #2 | 12.5% | avec votre ordinateur - impératif |
-|   | 3 labos test | 25% ||
+| 2022-12-05 | Test écrit #1 | 12.5% | avec votre ordinateur - impératif |
+| 2023-01-18 | Test écrit #2 | 12.5% | avec votre ordinateur - impératif |
+|   | 3 labos notés | 25% ||
 |   | Examen | 50% | sur papier |
 
 # Informations générales pour le cours
