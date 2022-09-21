@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "git.ignoreLimitWarning": true,
+    "terminal.integrated.rendererType": "dom",
+    "debug.internalConsoleOptions": "neverOpen"
+}
