@@ -5,6 +5,7 @@
 *.slo
 *.lo
 *.o
+**/*.o
 *.obj
 
 # Precompiled Headers
@@ -29,4 +30,4 @@
 # Executables
 *.exe
 *.out
-app
+**/app
