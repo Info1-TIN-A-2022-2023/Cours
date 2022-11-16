@@ -1,29 +1,6 @@
-#if 0
 #include <stdio.h>
 #include <math.h>
 
-int main(void)
-{
-
-    int n_max = 1000000000;
-    double pi_sur_4 = 0;
-    double pi = 0;
-
-    for (size_t n = 0; n <= n_max; n++)
-    {
-        pi_sur_4 += pow((-1), n) / (2. * n + 1);
-    }
-
-    pi = 4. * pi_sur_4;
-
-    printf("pi = %.8lf\n", pi);
-
-    return 0;
-}
-#else
-#include <stdio.h>
-#include <stdlib.h>
-#include <math.h>
 int main(int argc, char const *argv[])
 {
     const size_t K_MAX = 1000000000;
@@ -51,4 +28,4 @@ int main(int argc, char const *argv[])
 
     return 0;
 }
-#endif
+
