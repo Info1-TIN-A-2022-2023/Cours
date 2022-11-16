@@ -6,7 +6,7 @@
 EXEC=app
 
 CC=gcc
-CFLAGS+= -std=c99 -Wall -g
+CFLAGS+= -std=c99 -Wall -O3
 CFLAGS+= -Iinclude
 CFLAGS+= -D_XOPEN_SOURCE
 LDLIBS:= -lm
