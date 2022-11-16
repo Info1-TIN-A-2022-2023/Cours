@@ -20,7 +20,7 @@ int main(int argc, char const *argv[])
         num = -num;
     }
     printf("pi =%.20lf\n", 4 * sum);
-    printf("err=%g\n", 4 * sum-M_PI);
+    printf("err=%.3E\n", 4 * sum-M_PI);
 
     return 0;
 }

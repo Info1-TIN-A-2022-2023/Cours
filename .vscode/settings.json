@@ -3,5 +3,6 @@
     "editor.formatOnType": true,
     "git.ignoreLimitWarning": true,
     "terminal.integrated.rendererType": "dom",
-    "debug.internalConsoleOptions": "neverOpen"
+    "debug.internalConsoleOptions": "neverOpen",
+    "cmake.configureOnOpen": false
 }
